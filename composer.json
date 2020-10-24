@@ -1,0 +1,15 @@
+{
+    "name": "user0/cio-eng",
+    "type": "metapackage",
+    "require": {
+        "illuminate/view": "9.x-dev"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "cf-git",
+            "email": "is.captain.fail@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
