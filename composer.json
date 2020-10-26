@@ -4,6 +4,11 @@
     "require": {
         "illuminate/view": "9.x-dev"
     },
+    "autoload": {
+        "files": [
+            "App/helpers.php"
+        ]
+    },
     "license": "MIT",
     "authors": [
         {
